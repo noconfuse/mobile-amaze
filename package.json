@@ -1,0 +1,25 @@
+{
+  "name": "ts-hi",
+  "version": "1.0.0",
+  "description": "学习ts之路",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noconfuse/ts-hi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noconfuse/ts-hi/issues"
+  },
+  "homepage": "https://github.com/noconfuse/ts-hi#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1",
+    "typescript": "^3.8.3"
+  }
+}
