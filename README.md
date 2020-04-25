@@ -1,2 +1,2 @@
-# ts-hi
-学习ts之路
+# mobile-amaze
+移动端图片处理插件

@@ -1,5 +1,5 @@
 {
-  "name": "ts-hi",
+  "name": "mobile-amaze",
   "version": "1.0.0",
   "description": "学习ts之路",
   "main": "index.js",
@@ -9,17 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/noconfuse/ts-hi.git"
+    "url": "git+https://github.com/noconfuse/mobile-amaze.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/noconfuse/ts-hi/issues"
+    "url": "https://github.com/noconfuse/mobile-amaze/issues"
   },
-  "homepage": "https://github.com/noconfuse/ts-hi#readme",
+  "homepage": "https://github.com/noconfuse/mobile-amaze#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^7.1.1",
     "typescript": "^3.8.3"
-  }
+  },
+  "dependencies": {}
 }
